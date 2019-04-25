@@ -1,0 +1,3 @@
+tmp/
+bitbake.lock
+bitbake-cookerdaemon.log
